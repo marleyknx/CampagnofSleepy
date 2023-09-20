@@ -1,0 +1,9 @@
+
+=========Blessure	1	nécromancie	1 action			Si l'attaque touche, inflige subit 3d10 dégâts nécrotiques (dégâts/niv).
+
+
+
+
+
+
+
