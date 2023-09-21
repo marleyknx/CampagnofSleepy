@@ -1,0 +1,1 @@
+=======Flamme éternelle	2	évocation	1 action			Crée une flamme qui produit une lumière équivalente à celle d'une torche, mais qui ne dégage aucune chaleur.
