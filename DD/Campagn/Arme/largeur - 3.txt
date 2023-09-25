@@ -1,0 +1,13 @@
+largeur <- 3
+longeur <- 4
+largeur2
+longeur2
+
+
+
+perimetre(longeur,largeur)
+largeur2 <- largeur * 2
+longeur2 <- longeur * 2
+-> longeur2 + largeur2
+
+
